@@ -1,24 +1,42 @@
-DIABETES PREDICTION SYSTEM USING MACHINE LEARNING
+🩺 Diabetes Prediction System Using Machine Learning
 
-# Overview
+<div align="center">
 
-The Diabetes Prediction System is a Machine Learning web application that predicts whether a person is likely to have diabetes based on medical parameters. The application uses a trained Support Vector Machine (SVM) model and provides predictions through a simple and interactive Flask web interface.
+🧠 Predict Diabetes Risk Using Machine Learning
 
-This project demonstrates the complete Machine Learning workflow, including data preprocessing, model training, model serialization, and deployment as a web application.
+A modern Machine Learning Web Application built with Python, Flask, and Scikit-learn that predicts whether a patient is likely to have diabetes based on medical parameters.
 
+<img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-Web%20Framework-000000?style=for-the-badge&logo=flask">
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3">
+</div>
 
-# Features
+⸻
 
-* Predicts diabetes using a trained Machine Learning model
-* Interactive and responsive web interface
-* Data preprocessing with StandardScaler
-* Real-time prediction
-* User-friendly design
-* Lightweight Flask backend
-* Easy to deploy on Render or Railway
+📖 Overview
 
+The Diabetes Prediction System is a Machine Learning web application that predicts whether a person is diabetic using medical information such as glucose level, BMI, blood pressure, insulin level, age, and other health parameters.
 
-# Tech Stack
+The application is powered by a Support Vector Machine (SVM) model trained on the Pima Indians Diabetes Dataset and deployed using the Flask web framework.
+
+⸻
+
+✨ Key Features
+
+*  Machine Learning Prediction
+*  Real-Time Diabetes Prediction
+*  Flask-Based Web Application
+*  Support Vector Machine (SVM) Model
+*  Data Preprocessing using StandardScaler
+*  Modern Responsive User Interface
+* Pickle Model Serialization
+*  Ready for Deployment on Render
+
+⸻
+
+🛠 Technology Stack
 
 Programming Language
 
@@ -30,11 +48,14 @@ Machine Learning
 * Support Vector Machine (SVM)
 * StandardScaler
 
-Web Development
+Frontend
 
-* Flask
 * HTML5
 * CSS3
+
+Backend
+
+* Flask
 
 Libraries
 
@@ -42,27 +63,11 @@ Libraries
 * Pandas
 * Pickle
 
+⸻
 
-# Project Structure
+📊 Dataset
 
-Diabetes-Prediction/
-│
-├── app.py
-├── model.pkl
-├── scaler.pkl
-├── requirements.txt
-├── README.md
-│
-├── templates/
-│   └── index.html
-│
-└── static/
-    └── style.css
-
-
-# Dataset
-
-The project uses the Pima Indians Diabetes Dataset, which contains medical information collected from female patients.
+Dataset: Pima Indians Diabetes Dataset
 
 Input Features
 
@@ -75,34 +80,100 @@ Input Features
 * Diabetes Pedigree Function
 * Age
 
-Output
+Prediction
 
-* 0 → Not Diabetic
-* 1 → Diabetic
+* ✅ Not Diabetic
+* ❌ Diabetic
 
 ⸻
 
-# Machine Learning Workflow
+📸 Screenshots
 
-1. Data Collection
-2. Data Preprocessing
-3. Feature Scaling using StandardScaler
-4. Train-Test Split
-5. Model Training using Support Vector Machine (SVM)
-6. Model Evaluation
-7. Save Model using Pickle
-8. Deploy using Flask
+🏠 Home Page
 
+⸻
 
-# Installation
+📝 Prediction Form
 
-Clone the Repository
+⸻
 
-git clone https://github.com/your-username/Diabetes-Prediction.git
+📈 Prediction Result
 
-Navigate to the Project
+⸻
 
-cd Diabetes-Prediction
+⚙️ Workflow
+
+Patient Details
+       │
+       ▼
+Data Preprocessing
+(StandardScaler)
+       │
+       ▼
+Support Vector Machine
+       │
+       ▼
+Prediction
+       │
+       ▼
+Flask Web Application
+       │
+       ▼
+Prediction Result
+
+⸻
+
+📁 Project Structure
+
+Diabetes-prediction-using-machine-learning/
+│
+├── notebook/
+│   └── diabetesprediction.ipynb
+│
+├── screenshots/
+│   ├── home.png
+│   ├── prediction.png
+│   └── result.png
+│
+├── static/
+│   └── style.css
+│
+├── templates/
+│   └── index.html
+│
+├── app.py
+├── model.pkl
+├── scaler.pkl
+├── requirements.txt
+├── README.md
+├── Procfile
+└── .gitignore
+
+⸻
+
+🚀 Installation
+
+Clone the repository
+
+git clone https://github.com/rakeshposani/Diabetes-prediction-using-machine-learning.git
+
+Go to the project
+
+cd Diabetes-prediction-using-machine-learning
+
+Create Virtual Environment
+
+python3 -m venv .venv
+
+Activate Environment
+
+macOS / Linux
+
+source .venv/bin/activate
+
+Windows
+
+.venv\Scripts\activate
 
 Install Dependencies
 
@@ -112,67 +183,42 @@ Run the Application
 
 python app.py
 
-Open your browser and visit:
+Open Browser
 
 http://127.0.0.1:5000
 
+⸻
 
-# How It Works
+🔮 Future Improvements
 
-1. Enter patient details.
-2. Click the Predict button.
-3. Input values are scaled using the saved StandardScaler.
-4. The trained SVM model predicts the result.
-5. The prediction is displayed instantly.
+* User Authentication
+* Patient History Database
+* Prediction Confidence Score
+* Deep Learning Model
+* Interactive Dashboard
+* Cloud Deployment
+* Docker Support
 
+⸻
 
-
-# Screenshots
-
-## Screenshots
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Prediction Page
-![Prediction Page](screenshots/prediction.png)
-
-### Result Page
-![Result Page](screenshots/result.png)
-
-#  Future Improvements
-
-* User authentication
-* Patient history storage
-* Database integration
-* Email prediction reports
-* Improved UI with Bootstrap
-* Charts and analytics dashboard
-* Docker deployment
-* Cloud deployment with CI/CD
-
-# Author
+👨‍💻 Author
 
 Rakesh Posani
 
 Final Year B.Tech Student
-Vardhaman College of Engineering
 
-# Skills
+Skills
 
 * Python
 * Machine Learning
 * Flask
 * Data Analytics
 * SQL
-* HTML & CSS
+* HTML
+* CSS
 
+GitHub
 
-# Acknowledgements
+https://github.com/rakeshposani
 
-* Scikit-learn
-* Flask
-* NumPy
-* Pandas
-* Pima Indians Diabetes Dataset
 
