@@ -152,24 +152,24 @@ Prediction Result
 | Recall | 80% |
 | F1 Score | 80% |
 
+## 📸 Application Screenshots
 
-# 📸 Application Screenshots
-
-## 🏠 Home Page
+### 🏠 Home Page
 
 ![Home](screenshots/home.png)
 
 ---
 
-## 📝 Prediction Form
+### 📝 Prediction Form
 
 ![Prediction](screenshots/prediction.png)
 
 ---
 
-## ✅ Prediction Result
+### ✅ Prediction Result
 
 ![Result](screenshots/result.png)
+
 
 ---
 
