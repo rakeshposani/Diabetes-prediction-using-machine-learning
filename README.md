@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩺 Diabetes Prediction Web Application
+#  Diabetes Prediction Web Application
 
 ### Predict Diabetes Risk Using Machine Learning & Flask
 
@@ -21,7 +21,7 @@ A Machine Learning-powered web application that predicts whether a person is lik
 
 ---
 
-# 📖 Overview
+#  Overview
 
 Diabetes is one of the most common chronic diseases worldwide. Early detection can significantly improve treatment outcomes and reduce health risks.
 
@@ -29,7 +29,7 @@ This project uses Machine Learning to analyze patient medical data and predict t
 
 ---
 
-# ✨ Features
+#  Features
 
 -  Machine Learning Prediction
 - Instant Results
@@ -42,7 +42,7 @@ This project uses Machine Learning to analyze patient medical data and predict t
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
  Technology | Purpose 
 ------------|----------
@@ -57,7 +57,7 @@ This project uses Machine Learning to analyze patient medical data and predict t
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Diabetes-Prediction/
@@ -90,7 +90,7 @@ Diabetes-Prediction/
 
 ---
 
-# 📊 Dataset Features
+#  Dataset Features
 
 The prediction model uses the following medical parameters:
 
@@ -105,7 +105,7 @@ The prediction model uses the following medical parameters:
 
 ---
 
-# 🧠 Machine Learning Workflow
+#  Machine Learning Workflow
 
 ```text
 Dataset
@@ -143,7 +143,7 @@ Prediction Result
 
 ---
 
-# 📈 Model Performance
+#  Model Performance
 
 | Metric | Score |
 |---------|--------|
@@ -152,7 +152,7 @@ Prediction Result
 | Recall | 80% |
 | F1 Score | 80% |
 
-## 📸 Application Screenshots
+##  Application Screenshots
 
 ### 🏠 Home Page
 
@@ -160,20 +160,20 @@ Prediction Result
 
 ---
 
-### 📝 Prediction Form
+###  Prediction Form
 
 ![Prediction](screenshots/prediction.png)
 
 ---
 
-### ✅ Prediction Result
+###  Prediction Result
 
 ![Result](screenshots/result.png)
 
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 ### Clone the Repository
 
@@ -207,7 +207,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 📦 Requirements
+#  Requirements
 
 ```
 Flask
@@ -225,20 +225,20 @@ pip install -r requirements.txt
 
 ---
 
-# 💡 Future Improvements
+#  Future Improvements
 
-- 🌐 Cloud Deployment (Render / Railway / AWS)
-- 📧 Email Report Generation
-- 🔐 User Authentication
-- 📈 Prediction History
-- 🤖 Explainable AI (SHAP)
-- 👨‍⚕️ Doctor Recommendation System
-- 📱 Mobile Responsive UI
-- 🌍 Multi-language Support
+-  Cloud Deployment (Render / Railway / AWS)
+-  Email Report Generation
+-  User Authentication
+-  Prediction History
+-  Explainable AI (SHAP)
+-  Doctor Recommendation System
+-  Mobile Responsive UI
+-  Multi-language Support
 
 ---
 
-# 🎓 Learning Outcomes
+#  Learning Outcomes
 
 This project demonstrates:
 
@@ -253,7 +253,7 @@ This project demonstrates:
 
 ---
 
-# 🌟 Why This Project?
+#  Why This Project?
 
 - ✔ Real-world Healthcare Application
 - ✔ End-to-End Machine Learning Project
@@ -264,15 +264,15 @@ This project demonstrates:
 - ✔ Demonstrates ML Deployment Skills
 
 
-# 👨‍💻 Author
+#  Author
 
 **Rakesh Posani**
 
-🎓 B.Tech – Information Technology
+ B.Tech – Information Technology
 
-💻 Python | Machine Learning | AI | Data Analytics
+ Python | Machine Learning | AI | Data Analytics
 
-### 📬 Connect With Me
+###  Connect With Me
 
 **GitHub:** https://github.com/rakeshposani
 
