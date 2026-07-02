@@ -255,10 +255,7 @@ This project demonstrates:
 #  Why This Project?
 
 -  Real-world Healthcare Application
--  End-to-End Machine Learning Project
--  Beginner-Friendly Codebase
 -  Clean UI & Backend Integration
--  Placement & Resume Ready
 -  Easy to Extend
 -  Demonstrates ML Deployment Skills
 
