@@ -272,5 +272,5 @@ This project demonstrates:
 
 **GitHub:** https://github.com/rakeshposani
 
-**LinkedIn:** https://www.linkedin.com/in/rakeshposani/
+**LinkedIn:** https://www.linkedin.com/in/rakesh-posani-26b3363a8?
 
