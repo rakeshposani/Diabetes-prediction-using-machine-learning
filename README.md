@@ -154,7 +154,7 @@ Prediction Result
 
 ##  Application Screenshots
 
-### 🏠 Home Page
+###  Home Page
 
 ![Home](screenshots/home.png)
 
