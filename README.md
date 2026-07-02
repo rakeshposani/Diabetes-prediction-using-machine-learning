@@ -42,19 +42,18 @@ This project uses Machine Learning to analyze patient medical data and predict t
 
 ---
 
-#  Tech Stack
+##  Tech Stack
 
- Technology | Purpose 
-------------|----------
- Python - Programming Language 
- Flask - Backend Framework |
- Scikit-learn - Machine Learning 
- Pandas - Data Processing 
- NumPy - Numerical Operations 
- HTML5 - Frontend 
- CSS3 - Styling |
- Pickle - Model Storage 
-
+| Technology | Purpose |
+|------------|---------|
+| Python | Programming Language |
+| Flask | Backend Framework |
+| Scikit-learn | Machine Learning |
+| Pandas | Data Processing |
+| NumPy | Numerical Operations |
+| HTML5 | Frontend |
+| CSS3 | Styling |
+| Pickle | Model Storage |
 ---
 
 #  Project Structure
@@ -255,13 +254,13 @@ This project demonstrates:
 
 #  Why This Project?
 
-- ✔ Real-world Healthcare Application
-- ✔ End-to-End Machine Learning Project
-- ✔ Beginner-Friendly Codebase
-- ✔ Clean UI & Backend Integration
-- ✔ Placement & Resume Ready
-- ✔ Easy to Extend
-- ✔ Demonstrates ML Deployment Skills
+-  Real-world Healthcare Application
+-  End-to-End Machine Learning Project
+-  Beginner-Friendly Codebase
+-  Clean UI & Backend Integration
+-  Placement & Resume Ready
+-  Easy to Extend
+-  Demonstrates ML Deployment Skills
 
 
 #  Author
